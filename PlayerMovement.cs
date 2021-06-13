@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//RPG GAME
+
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed;
